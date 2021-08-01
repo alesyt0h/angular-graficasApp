@@ -5,6 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Dependencies
     "chart.js": "^2.9.4",
     "ng2-charts": "^2.4.2",
+    
+Note that if chart.js version higher than 3.0.0 will throw an endless errors.
 
 ## Development server
 
